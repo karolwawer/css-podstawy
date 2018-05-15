@@ -1,3 +1,13 @@
-body{
+body {
     background-color: burlywood;
+}
+html {
+    font-size: 20px;
+}
+#container > div{
+    font-size: 30px;
+    background-color: red;
+    margin-bottom: 15px;
+    color: white;
+    border: 2px solid white;
 }
