@@ -1,1 +1,35 @@
-body{background-color: aqua;}
+body {
+    background-color: aqua;
+}
+
+#kolory-predefiniowane {
+    width: 200px;
+    height: 100px;
+    background-color: cornflowerblue;
+    margin-bottom: 10px;
+}
+#kolory-hexadecymalne {
+    width: 200px;
+    height: 100px;
+    background-color: #4dcd32;
+    margin-bottom: 10px;
+}
+#kolory-hexadecymalne-zapis-skrocony{
+    width: 200px;
+    height: 100px;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
+#kolory-funkcja-rgb{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+    margin-bottom: 10px;
+}
+#kolory-funkcja-rgba{
+    width: 200px;
+    height: 100px;
+    background-color: rgba(255, 0, 0,0.5);
+    margin-bottom: 10px;
+}
+
