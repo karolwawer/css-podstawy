@@ -18,3 +18,6 @@ a, span, div{
 li > a{
     color: red;
 }
+div a {
+    color: chartreuse;
+}
