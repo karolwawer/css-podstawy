@@ -24,3 +24,6 @@ div a {
 h3+h3{
     color: aqua;
 }
+h4 ~ p{
+    color: antiquewhite;
+}
