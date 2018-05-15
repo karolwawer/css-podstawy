@@ -21,3 +21,6 @@ li > a{
 div a {
     color: chartreuse;
 }
+h3+h3{
+    color: aqua;
+}
